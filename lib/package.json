@@ -40,7 +40,7 @@
     "fp-ts": "^2.10.5",
     "io-ts": "^2.2.15",
     "io-ts-types": "^0.5.15",
-    "jira-client": "^6.21.1",
+    "jira-client": "^8.0.0",
     "monocle-ts": "^2.3.10",
     "newtype-ts": "^0.3.4",
     "oauth": "^0.10.0",
